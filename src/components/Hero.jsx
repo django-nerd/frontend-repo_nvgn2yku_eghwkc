@@ -21,11 +21,11 @@ export default function Hero() {
           AI • Python • Generative UX
         </div>
         <h1 className="text-4xl sm:text-6xl md:text-7xl font-extrabold tracking-tight text-white drop-shadow-[0_2px_30px_rgba(124,58,237,0.35)]">
-          Crafting intelligent experiences
-          <span className="block text-transparent bg-clip-text bg-gradient-to-r from-violet-300 via-sky-300 to-amber-200"> with code and curiosity</span>
+          Your Name
+          <span className="block text-transparent bg-clip-text bg-gradient-to-r from-violet-300 via-sky-300 to-amber-200"> — AI & Python Engineer</span>
         </h1>
         <p className="mt-6 text-slate-300/90 text-lg sm:text-xl max-w-3xl mx-auto">
-          Hi, I build human-centered AI systems — from voice agents and LLM tools to real-time computer vision apps.
+          I build human-centered AI systems — from voice agents and LLM tools to real-time computer vision apps.
         </p>
         <div className="mt-8 flex flex-wrap items-center justify-center gap-4">
           <a href="#ideas" className="px-5 py-3 rounded-xl bg-white/10 text-white backdrop-blur-md border border-white/15 hover:bg-white/20 transition">
@@ -33,6 +33,12 @@ export default function Hero() {
           </a>
           <a href="#contact" className="px-5 py-3 rounded-xl bg-gradient-to-r from-violet-500 to-sky-500 text-white shadow-lg shadow-violet-500/25 hover:opacity-95 transition">
             Get in touch
+          </a>
+          <a href="#" className="px-5 py-3 rounded-xl bg-white/10 text-white backdrop-blur-md border border-white/15 hover:bg-white/20 transition">
+            GitHub
+          </a>
+          <a href="#" className="px-5 py-3 rounded-xl bg-white/10 text-white backdrop-blur-md border border-white/15 hover:bg-white/20 transition">
+            LinkedIn
           </a>
         </div>
       </div>
